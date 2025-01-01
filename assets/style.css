@@ -58,6 +58,12 @@
     font-size: 24px;
     padding-bottom: 20px;
 }
+.fs .container img{
+    transition: all 0.5s ease;
+}
+.fs .container img:hover{
+    transform: scale(1.1);
+}
 
 /*for service*/
 
